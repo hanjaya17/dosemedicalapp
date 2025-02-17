@@ -1,0 +1,2 @@
+Unique ID Drug,Generic Name,Vendor/Brand Name,Drug Class,Dose Range Per Kg,Max Dose,Drug Forms,Indication,Contraindications,Side Effects,Reference,Additional Notes
+D001,Acetaminophen,Tylenol; Panadol,Analgesic/Antipyretic,10-15 mg/kg,1000 mg,Tablet; Syrup,Fever; Mild to moderate pain,Severe liver impairment,Nausea; Rash,MIMS 2023,"Example note: Check dose carefully"
