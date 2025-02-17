@@ -1,0 +1,13 @@
+# Ignore Firebase API keys
+serviceAccountKey.json
+dosis-obat-medis-firebase-adminsdk-fbsvc-4e172a9ed0.json
+
+# Ignore environment variables
+.env
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
